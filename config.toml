@@ -1,4 +1,5 @@
-baseurl = "http://indiarose.horse/"
+#baseUrl = "http://indiarose.horse/"
+baseUrl = "http://indiarose.horse.s3-website-us-west-2.amazonaws.com/"
 languageCode = "en-us"
 title = "honeyandlavender"
 theme = "hugo-strata-theme"
@@ -12,7 +13,7 @@ paginate = 10
 	# To provide some metadata for search engines feel free to add a few
   # information about you and your website.
 	name = "India Rose"
-	description = "Art and Artisans, some cats"
+	description = "Art and Artisans, some cats and flowers"
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
