@@ -1,4 +1,4 @@
-baseurl = "http://indiarose.horse"
+baseurl = "http://indiarose.horse/"
 languageCode = "en-us"
 title = "honeyandlavender"
 theme = "hugo-strata-theme"
